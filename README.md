@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is Alyasar, and I'm a frontend engineer & Master of Computer Science student</h2>
+<h2 align="left">Hi 👋! I'm a frontend engineer & Master of Computer Science student</h2>
 
 ###
 
 <img src="/github-header-image.png" alt="Alyasar's Banner">
 
 <div align="left">
-  <a href="alyasar.jabbarli@gmail.com" target="_blank">
+  <a href="mailto:alyasar.jabbarli@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alyasar-jabbarli-813060215/" target="_blank">
@@ -14,6 +14,27 @@
   <a href="medium.com/@alyasar.jabbarli" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
+</div>
+
+###
+
+<div>
+    <p>
+
+## 📌 About Me
+
+    I’m the creator behind **VyxenStudyAbroad** — a platform built with **Next.js** aimed at helping students find clarity in their study abroad journey.
+
+    Most of my work is private (for now 👀), but I’m always working on something exciting behind the scenes.
+
+---
+
+## 🚀 What Drives Me
+
+- 🔥 **Passion for Learning**: Always exploring new tech and staying sharp with modern tools and trends.
+- 🌐 **Global Impact**: Building platforms that make education more accessible across borders.
+- 🤝 **Community-Minded**: Love helping other devs, sharing what I learn, and growing together.
+    </p>
 </div>
 
 ###
