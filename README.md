@@ -21,11 +21,12 @@
 <div>
     <p>
 
-## 📌 About Me
+## 💫 About Me
 
-    I’m the creator behind **VyxenStudyAbroad** — a platform built with **Next.js** aimed at helping students find clarity in their study abroad journey.
-
-    Most of my work is private (for now 👀), but I’m always working on something exciting behind the scenes.
+🔭 Currently working on: VyxenStudyAbroad – a Next.js project to make studying abroad less chaotic and more accessible.<br>
+🌱Learning: Going deeper into Next.js, Tailwind, and leveling up my full-stack game.<br>
+💬 Ask me about: Frontend dev, React/Next.js, or anything related to building for real humans.<br>
+⚡ Fun fact: My private repos outnumber my public ones — some of my best work is still under wraps 👀
 
 ---
 
@@ -104,3 +105,6 @@
 </div>
 
 ###
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
