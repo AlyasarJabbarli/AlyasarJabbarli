@@ -18,6 +18,7 @@
 
 ###
 
+
 <div>
     <p>
 
@@ -28,7 +29,6 @@
 💬 Ask me about: Frontend dev, React/Next.js, or anything related to building for real humans.<br>
 ⚡ Fun fact: My private repos outnumber my public ones — some of my best work is still under wraps 👀
 
----
 
 ## 🚀 What Drives Me
 
@@ -39,6 +39,7 @@
 </div>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -107,4 +108,4 @@
 ###
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
