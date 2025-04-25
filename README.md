@@ -57,11 +57,11 @@
 
 <img align="right" height="170" src="https://media.tenor.com/D6CbF3DBPtgAAAAM/chilling-funny.gif" />
 
-### 📊 Stats & Activity
+<!-- ### 📊 Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyasarJabbarli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
-</div>
+</div> -->
 
 <br clear="both"/>
 
