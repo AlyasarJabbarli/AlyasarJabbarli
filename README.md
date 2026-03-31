@@ -1,80 +1,55 @@
-<h2 align="left">✨ Hi 👋! I'm a Frontend Engineer & Computer Science Master's Student</h2>
 
-###
+# <img src="/github-header-image.png" alt="Alyasar's Banner">
 
-<img src="/github-header-image.png" alt="Alyasar's Banner">
+### Frontend Engineer | Data Science Master's Student 🎓
+**Budapest, Hungary 🇭🇺**
 
-<div align="left">
-  <a href="mailto:alyasar.jabbarli@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alyasar-jabbarli-813060215/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@alyasar.jabbarli" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div>
-
-###
-
-## 💫 About Me
-
-- 💪 Currently building: **VyxenStudyAbroad** — a Next.js platform helping students navigate studying abroad.<br>
-- 🌟 Always learning: Deep diving into Next.js, Tailwind, and full-stack best practices.<br>
-- 😊 Friendly advice: Hit me up for anything frontend, React/Next.js, or career tips in tech.<br>
-- 🕵️‍♂️ Sneaky fact: My private repos outnumber my public ones — I’m always cooking something new 😉
-
-## 🚀 What Drives Me
-
-- 🔥 **Curiosity**: Tech never stops evolving, and neither do I.
-- 🌍 **Purpose**: Building tools that break barriers and bring global access to education.
-- 🤝 **Community**: Love mentoring, collaborating, and vibing with fellow devs.
-
-### 🛠️ Tech Stack
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" alt="less logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-</div>
-
-###
-
-<img align="right" height="170" src="https://media.tenor.com/D6CbF3DBPtgAAAAM/chilling-funny.gif" />
-
-<!-- ### 📊 Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyasarJabbarli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
-</div> -->
-
-<br clear="both"/>
-
-<img src="https://raw.githubusercontent.com/AlyasarJabbarli/AlyasarJabbarli/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlyasarJabbarli/count.svg?" />
-</div>
-
-### 🎨 Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
+I build high-performance, accessible web applications with a focus on the **React/Next.js** ecosystem. Currently, I’m bridging the gap between frontend engineering and data science while contributing to remote-first engineering teams.
 
 ---
 
-_Thanks for stopping by! Let's build cool stuff and change the world, one line of code at a time._
+### 🚀 At a Glance
+
+* 💼 **Currently:** Engineering remote solutions at **INCI Group**.
+* 🧠 **Learning:** Advanced Next.js patterns, Server Components, and Large Language Model (LLM) integrations.
+* 🍳 **Fact:** My private repositories outnumber my public ones 3-to-1. I’m always "cooking" something experimental behind the scenes.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Core Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **State & UI** | ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Backend/DevOps** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white) |
+
+---
+
+### 📊 Performance & Impact
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlyasarJabbarli/AlyasarJabbarli/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+### 🎨 Design Philosophy & Quotes
+
+> "Tech never stops evolving, and neither do I. Purpose-driven code is the bridge between a good product and a global solution."
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
+
+<img align="right" height="120" src="https://media.tenor.com/D6CbF3DBPtgAAAAM/chilling-funny.gif" />
+
+### 📫 Let's Connect
+* 🌐 **Portfolio:** [alyasarjabbarli.netlify.app](https://alyasarjabbarli.netlify.app)
+* 💼 **LinkedIn:** [Alyasar Jabbarli](https://www.linkedin.com/in/alyasar-jabbarli-813060215/)
+* 📝 **Writing:** [Medium @alyasarjabbarli](https://medium.com/@alyasarjabbarli)
+* 📧 **Email:** [alyasar.jabbarli@gmail.com](mailto:alyasar.jabbarli@gmail.com)
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! Let's build something that matters.</i>
+</p>
