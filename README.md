@@ -43,7 +43,7 @@ I build high-performance, accessible web applications with a focus on the **Reac
 <img align="right" height="120" src="https://media.tenor.com/D6CbF3DBPtgAAAAM/chilling-funny.gif" />
 
 ### 📫 Let's Connect
-* 🌐 **Portfolio:** [alyasarjabbarli.netlify.app](https://alyasar.netlify.app)
+* 🌐 **Portfolio:** [alyasar.app](https://alyasar.netlify.app)
 * 💼 **LinkedIn:** [Alyasar Jabbarli](https://www.linkedin.com/in/alyasar-jabbarli-813060215/)
 * 📝 **Writing:** [Medium @alyasarjabbarli](https://medium.com/@alyasarjabbarli)
 * 📧 **Email:** [alyasar.jabbarli@gmail.com](mailto:alyasar.jabbarli@gmail.com)
